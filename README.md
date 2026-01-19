@@ -12,6 +12,14 @@ Instead of relying on outdated size charts, it analyzes real body proportions an
 - Google Sign-In using Firebase Authentication
 - Secure and seamless login experience
 
+
+## 🌐 Live Application URL
+
+🔗 **Website:**  
+https://sizemyhoodie.vercel.app/
+
+> The application is optimized for mobile devices for the best experience.
+
 ### 🧠 AI Body Analysis
 - Uses MediaPipe Pose Landmarker for body detection
 - Extracts body ratios (shoulders, arms, torso)
